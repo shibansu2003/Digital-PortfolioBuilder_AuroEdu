@@ -49,3 +49,5 @@ Troubleshooting
 If you encounter issues such as connection errors, ensure that both the frontend and backend servers are running properly. Check the terminal for any error messages that may indicate what went wrong.
 
 Feel free to contribute to the project or reach out for any questions!
+
+Feel Free to contact at **shibansumandal2003@gmail.com**
