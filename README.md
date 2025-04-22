@@ -21,8 +21,36 @@ Make sure the following tools are installed on your system:
 ---
 
 ## 📦 Installation
+Install Frontend Dependencies
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/portfolio-builder.git
-   cd portfolio-builder
+bash
+Copy
+Edit
+cd frontend
+npm install
+Install Backend Dependencies
+
+bash
+Copy
+Edit
+cd ../backend
+npm install
+▶️ Running the Application
+To start the application locally:
+
+Start the Frontend
+
+bash
+Copy
+Edit
+cd frontend
+npm start
+Start the Backend (open a new terminal)
+
+bash
+Copy
+Edit
+cd backend
+npm start
+Visit http://localhost:3000 in your browser to view the app.
+
