@@ -21,36 +21,10 @@ Make sure the following tools are installed on your system:
 ---
 
 ## 📦 Installation
-Install Frontend Dependencies
+1.  Install Frontend Dependencies
+    cd frontend
+    npm install
 
-bash
-Copy
-Edit
-cd frontend
-npm install
-Install Backend Dependencies
-
-bash
-Copy
-Edit
-cd ../backend
-npm install
-▶️ Running the Application
-To start the application locally:
-
-Start the Frontend
-
-bash
-Copy
-Edit
-cd frontend
-npm start
-Start the Backend (open a new terminal)
-
-bash
-Copy
-Edit
-cd backend
-npm start
-Visit http://localhost:3000 in your browser to view the app.
-
+3.  Install Backend Dependencies
+  cd ../backend
+  npm install
